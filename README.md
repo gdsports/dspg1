@@ -50,11 +50,11 @@ Connection table. Pins in rows are connected together.
 Power   |Trinket M0 1   |Trinket M0 2   |dsp-G1
 ------- |-------------- |------------   |------
 GND     |GND            |GND            |GND
-5V      |USB            |USB            |
-        |               |3V             |VDD x 3
-        |TX-4           |RX-3
-        |               |TX-4           |MIDI RX
-        |               |               |Audio out
+5V      |USB            |USB            |n/c
+n/c     |n/c            |3V             |VDD x 3
+n/c     |TX-4           |RX-3           |n/c
+n/c     |n/c            |TX-4           |MIDI RX
+n/c     |n/c            |n/c            |Audio out
 
 The 5V power source powers both Trinket M0s (TM0s) as well as the MIDI devices
 connected to TM0s. The TM0-2 3.3V output powers the dsp-G1 synth chip. If a
