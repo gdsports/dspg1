@@ -77,3 +77,14 @@ Library](https://github.com/felis/USB_Host_Shield_2.0).
 The [MIDI for
 Arduino](https://github.com/FortySevenEffects/arduino_midi_library) library
 provides the MIDI UART driver.
+
+## Soldered board
+
+![dsp-G1 synth chip with MIDI keyboard and control inputs](./images/dsp-g1_soldered.jpg)
+
+This picture shows the soldered proto board version. The Trinket M0s are
+mounted on headers so are floating above the proto board. Unfortunately,
+parallax makes it appears the Trinket M0 pins are shifted. For example, on the
+left Trinket M0, the blue wires are connected to pins 3 and 4 but in the photo
+they appear to connect to the 3 and Rst. Be sure to use the connection table
+or zoom in on the other photo.
