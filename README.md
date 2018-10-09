@@ -84,7 +84,7 @@ provides the MIDI UART driver.
 
 This picture shows the soldered proto board version. The Trinket M0s are
 mounted on headers so are floating above the proto board. Unfortunately,
-parallax makes it appears the Trinket M0 pins are shifted. For example, on the
+parallax makes it appear the Trinket M0 pins are shifted. For example, on the
 left Trinket M0, the blue wires are connected to pins 3 and 4 but in the photo
 they appear to connect to the 3 and Rst. Be sure to use the connection table
 or zoom in on the other photo.
