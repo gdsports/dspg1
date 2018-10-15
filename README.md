@@ -80,7 +80,7 @@ provides the MIDI UART driver.
 
 ## Soldered board
 
-![dsp-G1 synth chip with MIDI keyboard and control inputs](./images/dsp-g1_soldered.jpg)
+![dsp-G1 synth chip with MIDI keyboard and control inputs](./images/dspg1-soldered.jpg)
 
 This picture shows the soldered proto board version. The Trinket M0s are
 mounted on headers so are floating above the proto board. Unfortunately,
